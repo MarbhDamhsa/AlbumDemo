@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: jay
+Build-Jdk: 9.0.4
+Implementation-Title: AlbumDemo
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.insomniacsdream
+Implementation-URL: https://localhost:8080
+Created-By: Maven Integration for Eclipse
+
